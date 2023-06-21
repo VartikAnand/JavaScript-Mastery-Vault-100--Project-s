@@ -27,7 +27,7 @@ The repository follows a structured format to ensure an organized learning exper
 
 This is a list of projects developed for Git:
 
-## [1. Change Background Color Project](#change-background-color)
+## [1. Change Background Color Project](/1 Change Background Color)
 Description: A project that allows changing the background color of a webpage dynamically.
 
 ## [2. Hex Change Background Color Project](#hex-change-background-color-project)
