@@ -1,6 +1,4 @@
-   README.md /\* Add your custom CSS styles here \*/
-
-Random Number Generator
+#Random Number Generator
 =======================
 
 This project is a simple Random Number Generator built using HTML, CSS, and JavaScript. It allows you to specify a range of numbers and generates a random number within that range.
