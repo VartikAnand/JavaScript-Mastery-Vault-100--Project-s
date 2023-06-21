@@ -23,6 +23,47 @@ The repository follows a structured format to ensure an organized learning exper
 *   The project's source code and any associated assets are included within the project directory.
 *   Additional resources, if required, will be provided alongside the project.
 
+# Git Project List
+
+This is a list of projects developed for Git:
+
+## [1. Change Background Color Project](1%20Change%20Background%20Color)
+Description: A project that allows changing the background color of a webpage dynamically.
+
+## [2. Hex Change Background Color Project](#hex-change-background-color-project)
+Description: A project that enables changing the background color of a webpage using hexadecimal color codes.
+
+## [3. Random Quotes Project](#random-quotes-project)
+Description: A project that displays random quotes on a webpage.
+
+## [4. Pass the Message Project](#pass-the-message-project)
+Description: A project that passes a message from one user to another.
+
+## [5. Counter Project](#counter-project)
+Description: A project that increments or decrements a counter on a webpage.
+
+## [6. Background Image Slider Project](#background-image-slider-project)
+Description: A project that creates a slider to showcase multiple background images on a webpage.
+
+## [7. Testimonials Project](#testimonials-project)
+Description: A project that displays customer testimonials on a webpage.
+
+## [8. Filter Project](#filter-project)
+Description: A project that allows filtering and sorting data on a webpage.
+
+## [9. Modal Project](#modal-project)
+Description: A project that creates a modal or popup window on a webpage.
+
+## [10. Calculator Project](#calculator-project)
+Description: A project that implements a basic calculator functionality on a webpage.
+
+## [11. Tip Form Project](#tip-form-project)
+Description: A project that calculates tip amounts based on user input in a form.
+
+## [12. To-Do List Project](#to-do-list-project)
+Description: A project that helps manage and organize tasks in a to-do list format.
+
+
 Getting Started
 ---------------
 
