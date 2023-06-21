@@ -28,8 +28,9 @@ Description: A project that allows changing the background color of a webpage dy
 ## [2. Hex Change Background Color Project](#tree/main/2%20Hex%20Change%20Background%20Color)
 Description: A project that enables changing the background color of a webpage using hexadecimal color codes.
 
-## [3. Random Quotes Project](#3.Random%20Quotes%20Project)
+## [3. Random Quotes Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/3.Random%20Quotes%20Project)
 Description: A project that displays random quotes on a webpage.
+
 
 ## [4. Pass the Message Project](#pass-the-message-project)
 Description: A project that passes a message from one user to another.
