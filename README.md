@@ -1,6 +1,6 @@
 JavaScript Mastery Vault: 100+ Projects
 
-![JavaScript Mastery Vault Logo](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/blob/main/js.png |width=200)
+![JavaScript Mastery Vault Logo](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/blob/main/js.png | width=200)
 
 JavaScript Mastery Vault: 100+ Projects
 =======================================
