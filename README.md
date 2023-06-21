@@ -32,7 +32,7 @@ Description: A project that enables changing the background color of a webpage u
 Description: A project that displays random quotes on a webpage.
 
 
-## [4. Pass the Message Project](#pass-the-message-project)
+## [4. Pass the Message Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/4.Random%20Number%20Generator)
 Description: A project that passes a message from one user to another.
 
 ## [5. Counter Project](#counter-project)
