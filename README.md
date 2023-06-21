@@ -38,8 +38,9 @@ Description: A project that passes a message from one user to another.
 ## [5.Calculator](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/5.Calculator)
 Description: A project that increments or decrements a counter on a webpage.
 
-## [6. Background Image Slider Project](#background-image-slider-project)
-Description: A project that creates a slider to showcase multiple background images on a webpage.
+## [6.Temperature Converter](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/6.Temperature%20Converter)
+Description: This is a basic level project that demonstrates a temperature converter. It allows users to enter a temperature and select the unit (Celsius or Fahrenheit) they want to convert from. Upon clicking the "Convert" button, the equivalent temperature in the other unit is displayed.
+
 
 ## [7. Testimonials Project](#testimonials-project)
 Description: A project that displays customer testimonials on a webpage.
