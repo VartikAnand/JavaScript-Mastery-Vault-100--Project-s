@@ -1,11 +1,9 @@
 JavaScript Mastery Vault: 100+ Projects
 
-![JavaScript Mastery Vault Logo](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/blob/main/js.png | width=200)
+![JavaScript Mastery Vault Logo](allJs.png)
 
 JavaScript Mastery Vault: 100+ Projects
 =======================================
-![JavaScript Mastery Vault Logo](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/blob/main/js.png)
-
 
 Welcome to the JavaScript Mastery Vault, a curated collection of 100+ JavaScript projects designed to guide learners from basic concepts to advanced techniques. Whether you're a beginner seeking to build a strong foundation in JavaScript or an experienced developer looking to enhance your skills, this repository is your go-to resource!
 
