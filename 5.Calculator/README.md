@@ -68,7 +68,9 @@ function calculateResult() {
   document.getElementById("resultField").value = result;
 }
 
-```txt
+```
+
+
 The clearResult() function clears the result field by setting its value to an empty string.
 The appendToResult(value) function appends the provided value to the result field.
 The calculateResult() function evaluates the expression in the result field using the eval() function and displays the result in the result field.
