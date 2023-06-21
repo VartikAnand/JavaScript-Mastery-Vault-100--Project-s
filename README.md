@@ -27,7 +27,7 @@ The repository follows a structured format to ensure an organized learning exper
 
 This is a list of projects developed for Git:
 
-## [1. Change Background Color Project](1%20Change%20Background%20Color/README.md#change-background-color-project)
+## [1. Change Background Color Project](1%20Change%20Background%20Color)
 Description: A project that allows changing the background color of a webpage dynamically.
 
 ## [2. Hex Change Background Color Project](#hex-change-background-color-project)
