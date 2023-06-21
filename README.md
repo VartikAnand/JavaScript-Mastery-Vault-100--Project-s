@@ -30,7 +30,7 @@ To get started with the JavaScript Mastery Vault, follow these steps:
 
 1.  Clone the repository to your local machine using the following command:
 
-    git clone https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/new/main?readme=1
+    git clone https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s.git
 
 2.  Navigate to the project directory you wish to explore:
 
