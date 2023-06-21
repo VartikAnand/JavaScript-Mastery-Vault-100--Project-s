@@ -1,6 +1,4 @@
----
 JavaScript Mastery Vault: 100+ Projects
----
 
 ![JavaScript Mastery Vault Logo](allJs.png)
 
