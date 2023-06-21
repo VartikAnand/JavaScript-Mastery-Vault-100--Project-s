@@ -71,9 +71,23 @@ function calculateResult() {
 ```
 
 
-The clearResult() function clears the result field by setting its value to an empty string.
-The appendToResult(value) function appends the provided value to the result field.
-The calculateResult() function evaluates the expression in the result field using the eval() function and displays the result in the result field.
-Please make sure to include the necessary HTML, CSS, and JavaScript files in your project, and link the JavaScript functions to the respective buttons in the calculator interface.
+# JavaScript Code Explanation
 
-Feel free to customize and enhance the code as needed for your specific requirements.
+The JavaScript code for the calculator project includes the following functions:
+
+## clearResult()
+
+The `clearResult()` function is responsible for clearing the result field. It sets the value of the result field to an empty string, effectively clearing any existing input or result.
+
+## appendToResult(value)
+
+The `appendToResult(value)` function is used to append a value to the result field. When a button is clicked, this function is called with the respective value of the button as the argument. It retrieves the current value of the result field and appends the provided value to it, resulting in the updated expression.
+
+## calculateResult()
+
+The `calculateResult()` function handles the calculation and display of the result. It retrieves the value of the result field and assigns it to the `expression` variable. The `eval()` function is then used to evaluate the expression and store the result in the `result` variable. Finally, the updated result is displayed in the result field.
+
+These JavaScript functions enable the calculator to clear the result field, append values to it, and calculate and display the result based on the user's input.
+
+Feel free to customize and enhance the code as needed to suit your specific requirements.
+
