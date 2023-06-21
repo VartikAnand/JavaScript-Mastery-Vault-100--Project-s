@@ -32,10 +32,10 @@ Description: A project that enables changing the background color of a webpage u
 Description: A project that displays random quotes on a webpage.
 
 
-## [4. Pass the Message Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/4.Random%20Number%20Generator)
+## [4.Random Number Generator](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/4.Random%20Number%20Generator)
 Description: A project that passes a message from one user to another.
 
-## [5. Counter Project](#counter-project)
+## [5.Calculator](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/5.Calculator)
 Description: A project that increments or decrements a counter on a webpage.
 
 ## [6. Background Image Slider Project](#background-image-slider-project)
