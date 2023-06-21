@@ -25,7 +25,7 @@ This is a list of projects developed for Git:
 ## [1. Change Background Color Project](1%20Change%20Background%20Color)
 Description: A project that allows changing the background color of a webpage dynamically.
 
-## [2. Hex Change Background Color Project](#tree/main/2%20Hex%20Change%20Background%20Color)
+## [2. Hex Change Background Color Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/2%20Hex%20Change%20Background%20Color)
 Description: A project that enables changing the background color of a webpage using hexadecimal color codes.
 
 ## [3. Random Quotes Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/3.Random%20Quotes%20Project)
