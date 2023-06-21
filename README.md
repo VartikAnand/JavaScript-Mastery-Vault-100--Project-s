@@ -23,11 +23,11 @@ The repository follows a structured format to ensure an organized learning exper
 *   The project's source code and any associated assets are included within the project directory.
 *   Additional resources, if required, will be provided alongside the project.
 
-*   # Git Project List
+# Git Project List
 
 This is a list of projects developed for Git:
 
-## [1. Change Background Color Project](#tree/main/1%20Change%20Background%20Color)
+## [1. Change Background Color Project](1%20Change%20Background%20Color/README.md#change-background-color-project)
 Description: A project that allows changing the background color of a webpage dynamically.
 
 ## [2. Hex Change Background Color Project](#hex-change-background-color-project)
