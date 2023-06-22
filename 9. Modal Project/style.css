@@ -1,0 +1,59 @@
+/* styles.css */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  backdrop-filter: blur(8px); /* Add backdrop-filter for a glass effect */
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  position: relative; /* Add position relative to create a new positioning context */
+  background-color: #fff;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Add box shadow for a raised effect */
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.close {
+  color: #aaa;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add transition for a smooth hover effect */
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.btn.thick {
+  padding: 15px 30px; /* Increase padding for a larger button */
+  border-radius: 30px; /* Add border-radius for a rounded button */
+}
