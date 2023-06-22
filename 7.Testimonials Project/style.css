@@ -1,0 +1,50 @@
+/* CSS styles for testimonials */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .testimonial {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
+  .testimonial .name {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .testimonial .company {
+    font-size: 14px;
+    color: #777777;
+  }
+  
+  .testimonial .message {
+    font-size: 16px;
+  }
+  
+  /* Additional CSS styles for UI enhancements */
+  .testimonial.highlight {
+    background-color: #e5f4ff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
+  
