@@ -45,7 +45,7 @@ Description: This is a basic level project that demonstrates a temperature conve
 ## [7. Testimonials Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/7.Testimonials%20Project)
 Description: A project that displays customer testimonials on a webpage.
 
-## [8. Filter Project](#filter-project)
+## [8. Filter Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/8.%20Filter%20Project)
 Description: A project that allows filtering and sorting data on a webpage.
 
 ## [9. Modal Project](#modal-project)
