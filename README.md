@@ -42,7 +42,7 @@ Description: A project that increments or decrements a counter on a webpage.
 Description: This is a basic level project that demonstrates a temperature converter. It allows users to enter a temperature and select the unit (Celsius or Fahrenheit) they want to convert from. Upon clicking the "Convert" button, the equivalent temperature in the other unit is displayed.
 
 
-## [7. Testimonials Project](#testimonials-project)
+## [7. Testimonials Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/7.Testimonials%20Project)
 Description: A project that displays customer testimonials on a webpage.
 
 ## [8. Filter Project](#filter-project)
