@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.filters {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.filters label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.data {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  width: 200px;
+  height: 150px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.item .img {
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.item .text {
+  flex: 1;
+}
+
+.fruit {
+  background-color: #f8e6ff;
+}
+
+.chocolate {
+  background-color: #ffe6e6;
+}
+
+.cloths {
+  background-color: #e6f2ff;
+}
+
+.gadgets {
+  background-color: #f2ffe6;
+}
+
+.ice-cream {
+  background-color: #f2ffe6;
+}
+
+.mango {
+  background-color: #f8e6ff;
+}
+
+.banana{
+  background-color: #eae6ff;
+ 
+}
