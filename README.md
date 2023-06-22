@@ -48,11 +48,11 @@ Description: A project that displays customer testimonials on a webpage.
 ## [8. Filter Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/8.%20Filter%20Project)
 Description: A project that allows filtering and sorting data on a webpage.
 
-## [9. Modal Project](#modal-project)
+## [9. Modal Project](https://github.com/VartikAnand/JavaScript-Mastery-Vault-100--Project-s/tree/main/9.%20Modal%20Project)
 Description: A project that creates a modal or popup window on a webpage.
 
-## [10. Calculator Project](#calculator-project)
-Description: A project that implements a basic calculator functionality on a webpage.
+## [10. Countdown Timer](#calculator-project)
+Description: A Countdown Timer is a tool that displays the remaining time until a specific event or deadline
 
 ## [11. Tip Form Project](#tip-form-project)
 Description: A project that calculates tip amounts based on user input in a form.
